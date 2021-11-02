@@ -22,7 +22,7 @@ class ResultScreen extends StatelessWidget {
           title: Text(
             'YOUR BMI',
             style: TextStyle(
-              fontSize: 50,
+              fontSize: 40,
             ),
           ),
         ),
